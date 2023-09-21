@@ -1,2 +1,1 @@
-# vechain-dapp-sample
-A simple command line based app to call smart contracts on VeChain
+d071854ea4754c0e748b5024fdf06bc8003ac459
